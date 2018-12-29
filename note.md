@@ -3,7 +3,7 @@
 npm init -y
 
 2.
-npm install webpack web
+npm install webpack webpack-cli -D
 
 ### 在webpack中所有文件都是模块 
 js模块（AMD CMD es6Module commonjs ）
